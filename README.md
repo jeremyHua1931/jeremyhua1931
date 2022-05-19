@@ -6,9 +6,9 @@
 
 ## 👨🏻 About Me
 - 🔭 I’m currently studing at <a href="https://www.whu.edu.cn"> WuHan University  </a>  <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-- 🌱 I’m currently learning ** Spring, KG Embedding, Kotlin... ** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📫 <a href="http://jeremyhua.top"> <img src="https://img.shields.io/badge/-GithubPage-yellowgreen"></a> & [CSDNBolgs](https://blog.csdn.net/weixin_45992833?type=blog)
-- 💬 This is my email : jeremyhua@foxmail.com
+- 🌱 I’m currently learning **Spring, KG Embedding, Kotlin...** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 📫 <a href="http://jeremyhua.top"> <img src="https://img.shields.io/badge/-GithubBlog-yellowgreen"></a> <a href="https://blog.csdn.net/weixin_45992833?type=blog"> <img src="https://img.shields.io/badge/-CSDNBlogs-yellowgreen"></a> 
+- 💬 <img src="https://img.shields.io/badge/JeremyHua@foxmail.com-D14836?style=flat&logo=gmail&logoColor=white"> 
 
 
 <h2> 🛠 Tech Stack</h2>
@@ -56,12 +56,6 @@
         - 🔧 &nbsp; Spring | MyBatis | Knowledge Graph | TypeScript 
     </li>
 </ul>
-
-
- 
-
-<h2> 🤝🏻 Connect with Me </h3>
-
 
 ## My Github Stats💻
 ![](https://github-readme-stats.vercel.app/api?username=jeremyhua1931&count_private=true&repo=github-readme-stats&hide=prs)
