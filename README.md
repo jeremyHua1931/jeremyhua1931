@@ -1,7 +1,15 @@
 ### Hi there 👋
+
+I'm Hua Zhangzhao, a an undergraduate of computer science and technology
+- 🔭 I’m currently studing in WuHan University
+- 🌱 I’m currently learning JavaWeb, NLP, kotlin...
+- 📫 This is my github bolgs  : http://jeremyhua.top
+- 📫 This is my github bolgs  :https://blog.csdn.net/weixin_45992833?type=blog
+- 💬 Here is my email : jeremyhua@foxmail.com
+
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=jeremyhua1931">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyhua1931">
+  <img src = "https://github-readme-stats.vercel.app/api?username=jeremyhua1931&count_private=true&repo=github-readme-stats&hide=prs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyhua1931&layout=compact&repo=github-readme-stats")
 </p>
 
 <!--
