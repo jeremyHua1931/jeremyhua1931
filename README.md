@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Hua Zhangzhao, an undergraduate of computer science and technology
+I'm Hua Zhangzhao, a college student of computer science and technology
 
 - 🔭 I’m currently studing in WuHan University
 - 🌱 I’m currently learning JavaWeb, NLP, kotlin...
@@ -10,7 +10,7 @@ I'm Hua Zhangzhao, an undergraduate of computer science and technology
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=jeremyhua1931&count_private=true&repo=github-readme-stats&hide=prs">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyhua1931&layout=compact&repo=github-readme-stats")
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyhua1931&layout=compact&repo=github-readme-stats&count_private=tru")
 </p>
 
 <!--
