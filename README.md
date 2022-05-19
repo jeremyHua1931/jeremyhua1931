@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p><b>I'm Hua Zhangzhao , </b><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"><b> A college student in Computer Science and Technology</b></p>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" height="200">
+<img align='right' src="https://github.com/jeremyHua1931/jeremyhua1931/blob/main/10-removebg-preview.png" width="200" height="200">
 
 
 ## 👨🏻 About Me
