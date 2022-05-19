@@ -11,6 +11,14 @@
 - 💬 <img src="https://img.shields.io/badge/JeremyHua@foxmail.com-D14836?style=flat&logo=gmail&logoColor=white"> 
 
 
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> To Learn
+
+<ul>
+    <li>
+        - 🔧 &nbsp; <b>Spring | MyBatis | Knowledge Graph | TypeScript</b> 
+    </li>
+</ul>
+
 <h2> 🛠 Tech Stack</h2>
 <ul>
     <li>
@@ -46,20 +54,9 @@
     </li>
 </ul>
 
-
-
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> To Learn
-
-<ul>
-    <li>
-        - 🔧 &nbsp; Spring | MyBatis | Knowledge Graph | TypeScript 
-    </li>
-</ul>
-
 ## My Github Stats💻
 ![](https://github-readme-stats.vercel.app/api?username=jeremyhua1931&count_private=true&repo=github-readme-stats&hide=prs)
+## Most Used Languages💻
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyhua1931&layout=compact&repo=github-readme-stats&count_private=true)
-
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
