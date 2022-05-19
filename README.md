@@ -1,8 +1,5 @@
 ### Hi there 👋
 ![](https://github-readme-stats.vercel.app/api?username=jeremyhua1931)
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=wangscaler&theme=react-dark">
-</p>
 
 <!--
 **jeremyHua1931/jeremyhua1931** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
