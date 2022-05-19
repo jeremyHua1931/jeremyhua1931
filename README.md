@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=jeremyhua1931&count_private=true&show_icons=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=jeremyhua1931">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyhua1931">
 </p>
 
