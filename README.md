@@ -1,5 +1,8 @@
 ### Hi there 👋
-![](https://github-readme-stats.vercel.app/api?username=jeremyhua1931)
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=jeremyhua1931&count_private=true&show_icons=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyhua1931">
+</p>
 
 <!--
 **jeremyHua1931/jeremyhua1931** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
