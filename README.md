@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Hua Zhangzhao, an an undergraduate of computer science and technology
+I'm Hua Zhangzhao, an undergraduate of computer science and technology
 
 - 🔭 I’m currently studing in WuHan University
 - 🌱 I’m currently learning JavaWeb, NLP, kotlin...
