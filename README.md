@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p><b>I'm Hua Zhangzhao , </b><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"><b> A college student in Computer Science and Technology</b></p>
-<img align='right' src="https://github.com/jeremyHua1931/jeremyhua1931/blob/main/10-removebg-preview.png" width="200" height="200">
+
 
 
 ## 👨🏻 About Me
@@ -11,7 +11,6 @@
 - 💬 <img src="https://img.shields.io/badge/JeremyHua@foxmail.com-D14836?style=flat&logo=gmail&logoColor=white"> 
 
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> To Learn
 
 <ul>
     <li>
