@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<p><b>I'm Jeremy Hua , </b><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"><b> A college student in Computer Science and Technology</b></p>
+<p><b>I'm Jeremy Hua , </b><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></p>
 
 
 
